@@ -1,5 +1,29 @@
 /* Your Website Styles */
 
+html{
+  font-family: 'Noto Serif', serif;
+  text-decoration: none;
+}
+
+
+/* Set Your Own Margin & Padding */
+h1{
+font-family: 'Noto Serif', serif;
+}
+
+h2{
+font-family: 'Noto Serif', serif;
+}
+
+h3{
+font-family: 'Noto Serif', serif;
+
+} 
+
+p {
+  font-family: Verdana, sans-serif;
+  margin: 0;
+}
 
 
 /* Gallery Stying */
@@ -23,7 +47,7 @@
   height: 400px;
   overflow: hidden;
   text-align: center;
-  background: #4d87e2;
+  background: violet;
 }
 .gallery .controls {
   position: absolute;
