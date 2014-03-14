@@ -1,0 +1,3 @@
+Images 1  2  3  4  need to be 960  X  400 pixels
+
+thumbnails need to be 100 X 100 pixels
